@@ -10,3 +10,9 @@ STiKA を用意。
 ---
 #aaa
 ---
+# 長い針
+hoge.jpg
+---
+短い針
+mijikai.jpg
+---
