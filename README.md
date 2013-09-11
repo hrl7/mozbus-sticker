@@ -2,19 +2,26 @@
 ## 
 This document is made by [gitfab](http://gitfab.org)
 ---
-# items
+# 必要なもの
 
+* パソコン
 * STiKA
-* Sticker sheet
-* Application sheet
-* Knife
-* Board
----
-# setup
+* ステッカーシート
+* アプリケーションシート
+* ナイフ
+* カッターマット
 
-STiKA を用意。
+---
+# 手順
+
+1. STiKAを準備する
+2. シートをSTiKAにセットする
+3. データをSTiKAに送りカットする
+4. カットされたシートから余分な部分を取り除く
+5. アプリケーションシートを使って貼付ける
+
 ---
 ![sticker_data02.jpg](https://raw.github.com/dadaa/mozbus-sticker/master/gitfab/resources/sticker_data02.jpg)
 ---
-# output
+# 結果
 ---
