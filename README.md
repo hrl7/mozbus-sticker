@@ -24,7 +24,7 @@ This document is made by [gitfab](http://gitfab.org)
 #1. STiKAを準備する
 電源とUSBケーブルを接続してパソコンから認識できるようにする。
 ![1-1.jpg](https://raw.github.com/hrl7/mozbus-sticker/master/gitfab/resources/1-1.jpg)
-シートをガイドラインに合わせてセットする。
+シートをガイドラインに合わせてセットする
 ![1-2.jpg](https://raw.github.com/hrl7/mozbus-sticker/master/gitfab/resources/1-2.jpg)
 
 （必要であればカッターの刃先量を調節しよう）
