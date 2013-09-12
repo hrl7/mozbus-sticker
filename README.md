@@ -23,12 +23,24 @@ This document is made by [gitfab](http://gitfab.org)
 ![sticker_data02.jpg](https://raw.github.com/dadaa/mozbus-sticker/master/gitfab/resources/sticker_data02.jpg)
 ---
 #1. STiKAを準備する
+電源とUSBケーブルを接続してパソコンから認識できるようにする。
+シートをガイドラインに合わせてセットする。
+（必要であればカッターの刃先量を調節しよう）
 
 ---
-#2. データをSTiKAに送りカットする
+#2. データを作ってSTiKAに送りカットする
+mozbusの画像をダウンロードする
+##WindowsでCutStudioを使う
+1. CutStudioでmozbusの画像をインポートする
+2. インポートした画像を選択して右クリックを押し、"画像の輪郭"を選択する
+3. 濃度の閾値を調節して"輪郭抽出"を押して、よければ"OK"を押す
+4. 好きな大きさに調節して保存しておく
+5. ツールバーの"カット"を押してカットする
+##Mac
 
 ---
 #3. カットされたシートから余分な部分を取り除く
+カットされたシートを取り出し、ナイフなどで慎重に余分な部分を取り除く
 
 ---
 #4. アプリケーションシートを使って貼付ける
