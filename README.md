@@ -20,7 +20,7 @@ This document is made by [gitfab](http://gitfab.org)
 4. アプリケーションシートを使って貼付ける
 5. 完成!!
 ---
-![sticker_data02.jpg](https://raw.github.com/dadaa/mozbus-sticker/master/gitfab/resources/sticker_data02.jpg)
+![sticker_data01.jpg](https://raw.github.com/dadaa/mozbus-sticker/master/gitfab/resources/sticker_data01.jpg)
 ---
 #1. STiKAを準備する
 電源とUSBケーブルを接続してパソコンから認識できるようにする。
@@ -29,18 +29,23 @@ This document is made by [gitfab](http://gitfab.org)
 
 ---
 #2. データを作ってSTiKAに送りカットする
-mozbusの画像をダウンロードする
 ##WindowsでCutStudioを使う
-1. CutStudioでmozbusの画像をインポートする
-2. インポートした画像を選択して右クリックを押し、"画像の輪郭"を選択する
-3. 濃度の閾値を調節して"輪郭抽出"を押して、よければ"OK"を押す
-4. 好きな大きさに調節して保存しておく
-5. ツールバーの"カット"を押してカットする
-##Mac
+1. mozbusの画像をダウンロードする
+2. CutStudioでmozbusの画像をインポートする
+3. インポートした画像を選択して右クリックを押し、"画像の輪郭"を選択する
+4. 濃度の閾値を調節して"輪郭抽出"を押して、よければ"OK"を押す
+5. 好きな大きさに調節して保存しておく
+6. ツールバーの"カット"を押してカットする
 
+##Mac
+1. 後ほど作ります・・・
+
+##注意
+カット中に止めたいときは電源ボタンを押します
 ---
 #3. カットされたシートから余分な部分を取り除く
-カットされたシートを取り出し、ナイフなどで慎重に余分な部分を取り除く
+カットが終わったらSTiKAの電源を切ってからシートを取り出す
+そのあと、ナイフなどで慎重に残したい部分以外のシールに余分な部分を取り除く
 
 ---
 #4. アプリケーションシートを使って貼付ける
