@@ -45,6 +45,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ##Mac
 1. 後ほど作ります・・・
+
 ![sticker_data01.jpg](https://raw.github.com/dadaa/mozbus-sticker/master/gitfab/resources/sticker_data01.jpg)
 ##注意
 カット中に止めたいときは電源ボタンを押します
