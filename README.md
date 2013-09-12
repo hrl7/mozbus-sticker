@@ -34,10 +34,14 @@ This document is made by [gitfab](http://gitfab.org)
 ##WindowsでCutStudioを使う
 1. mozbusの画像をダウンロードする
 2. CutStudioでmozbusの画像をインポートする
+![gf-2.jpg](https://raw.github.com/hrl7/mozbus-sticker/master/gitfab/resources/gf-2.jpg)
 3. インポートした画像を選択して右クリックを押し、"画像の輪郭"を選択する
 4. 濃度の閾値を調節して"輪郭抽出"を押して、よければ"OK"を押す
+![gf-4.jpg](https://raw.github.com/hrl7/mozbus-sticker/master/gitfab/resources/gf-4.jpg)
 5. 好きな大きさに調節して保存しておく
 6. ツールバーの"カット"を押してカットする
+![gf-5.jpg](https://raw.github.com/hrl7/mozbus-sticker/master/gitfab/resources/gf-5.jpg)
+
 
 ##Mac
 1. 後ほど作ります・・・
