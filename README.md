@@ -4,7 +4,6 @@ This document is made by [gitfab](http://gitfab.org)
 ---
 # 必要なもの
 
-* 気合
 * パソコン
 * STiKA
 * ステッカーシート
