@@ -1,5 +1,5 @@
 # mozbus-sticker
-## 
+## sticker
 This document is made by [gitfab](http://gitfab.org)
 ---
 # 必要なもの
