@@ -68,7 +68,7 @@ This document is made by [gitfab](http://gitfab.org)
 
 ---
 #5. 完成!!
-最後にアプリケーションシートだけはがして完成！！
+最後にアプリケーションシートだけはがして完成！上だけを剥がしましょう。
 ![5-1.jpg](https://raw.github.com/hrl7/mozbus-sticker/master/gitfab/resources/5-1.jpg)
 
 ---
